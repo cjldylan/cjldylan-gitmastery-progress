@@ -1,10 +1,35 @@
 [
   {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786881502.241143,
+    "completed_at": 1786881503.641815,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786883426.756307,
+    "completed_at": 1786883428.134164,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "stage-fright",
     "started_at": 1786880495.940839,
     "completed_at": 1786880497.240763,
     "comments": [
       "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786881926.981489,
+    "completed_at": 1786881928.386683,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
   },
@@ -27,28 +52,12 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1786881502.241143,
-    "completed_at": 1786881503.641815,
+    "exercise_name": "link-me",
+    "started_at": 1787039706.258514,
+    "completed_at": 1787039709.697187,
     "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+      "Missing remote called 'upstream'."
     ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1786881926.981489,
-    "completed_at": 1786881928.386683,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "log-and-order",
-    "started_at": 1786883426.756307,
-    "completed_at": 1786883428.134164,
-    "comments": [],
-    "status": "Completed"
+    "status": "Incomplete"
   }
 ]
