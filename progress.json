@@ -266,5 +266,14 @@
       "No commits were made in the 'sleep-line' branch."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787679242.567324,
+    "completed_at": 1787679245.61487,
+    "comments": [
+      "The 'sleep-line' branch should start from the second commit (with message 'Describe location')."
+    ],
+    "status": "Incomplete"
   }
 ]
