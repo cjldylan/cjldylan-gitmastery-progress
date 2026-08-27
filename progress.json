@@ -356,5 +356,14 @@
       "You need to merge 'feature-search' first!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787859573.281845,
+    "completed_at": 1787859576.403858,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
